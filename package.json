@@ -26,7 +26,7 @@
     "test": "grunt"
   },
   "dependencies": {
-    "node-sass-swist": "~0.7.0",
+    "node-sass": "git://github.com:swist/node-sass.git#dev",
     "async": "~0.2.9"
   },
   "devDependencies": {
